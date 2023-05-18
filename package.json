@@ -27,8 +27,14 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@types/pdf-parse": "^1.1.1",
+    "@types/prompt-sync": "^4.2.0",
     "dotenv": "^16.0.3",
-    "langchain": "^0.0.39",
+    "hnswlib-node": "^1.4.2",
+    "langchain": "^0.0.76",
+    "pdf-parse": "^1.1.1",
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10",
     "tsup": "^6.7.0"
   },
   "devDependencies": {
